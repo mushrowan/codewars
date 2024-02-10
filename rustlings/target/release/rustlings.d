@@ -1,0 +1,1 @@
+/home/ro/rustlings/target/release/rustlings: /home/ro/rustlings/src/exercise.rs /home/ro/rustlings/src/main.rs /home/ro/rustlings/src/project.rs /home/ro/rustlings/src/run.rs /home/ro/rustlings/src/ui.rs /home/ro/rustlings/src/verify.rs
